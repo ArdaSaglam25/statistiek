@@ -13,6 +13,11 @@ for (let i = 0; i < myArray.length; i++) {
     som = som + getal;
 }
 
+
+
 const average = som/myArray.length;
 
 console.log("Gemiddelde is: ", average);
+
+
+
